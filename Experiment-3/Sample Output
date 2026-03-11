@@ -1,0 +1,21 @@
+Enter first string: Applepie
+Enter second string: Applepen
+APPLEPIE
+applepie
+Applepie
+aPPLEPIE
+Applepie
+APPLEPEN
+applepen
+Applepen
+aPPLEPEN
+Apple
+Apple
+['Applepie']
+['Applepen']
+-1
+-1
+Applepie
+Applepen
+8
+8
