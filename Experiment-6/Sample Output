@@ -1,0 +1,52 @@
+enter n:2
+enter name:James
+enter phone number:9887639742
+enter name:Jose
+enter phone number:8887483045
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+1
+dict_items([('James', '9887639742'), ('Jose', '8887483045')])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+2
+dict_keys(['James', 'Jose'])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+3
+dict_values(['9887639742', '8887483045'])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+4
+enter name:Jose
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+1
+dict_items([('James', '9887639742')])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+5
