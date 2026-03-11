@@ -1,0 +1,27 @@
+Append Function:
+
+[65, 23, 34, 50, 90]
+Extend Function:
+
+[65, 23, 34, 50, 90, 60, 10, 720, 890]
+Copy Function:
+
+[60, 10, 720, 890]
+Sort Function:
+
+[10, 60, 720, 890]
+[890, 720, 60, 10]
+Insert Function:
+
+[890, 720, 100, 60, 10]
+Remove Function:
+[720, 100, 60, 10]
+Index Function:
+
+Index is: 2
+Slicing:
+
+[720, 60]
+Clear Function:
+
+[]
