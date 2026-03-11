@@ -1,0 +1,27 @@
+Aim:
+To implement control flow statements and looping statements in python.
+
+Algorithm:
+Step 1: Start the program.
+
+Step 2: Read the number of players pl.
+
+Step 3: Use a for loop to repeat the process for each player.
+
+Step 4: Accept inputs for runs, balls faced, fours, sixes, wickets, runs conceded, overs bowled, and catches.
+
+Step 5: Calculate Strike Rate = (Runs / balls) × 100 and Economy Rate = runs conceded / overs.
+
+Step 6: Determine Batting Performance based on runs and strike rate.
+
+Step 7: Determine Bowling Performance based on wickets and economy rate.
+
+Step 8: Determine Fielding Performance based on number of catches.
+
+Step 9: Determine Overall All-Rounder Performance based on batting and bowling performance.
+
+Step 10: Display strike rate, economy rate, batting, bowling, fielding, and overall performance.
+
+Step 11: Repeat for all players.
+
+Step 12: Stop the program.
