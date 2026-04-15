@@ -1,0 +1,15 @@
+Aim:
+To write a program using Pandas to create and display a DataFrame and use Matplotlib to plot the data.
+
+Algorithm:
+s1 - Start
+s2 - Import the pandas library as pd and matplotlib.pyplot as plt.
+s3 - Initialize two lists: Points containing the scores and Teams containing the MotoGP team names.
+s4 - Create a DataFrame using these two lists with columns "Points" and "Teams".
+s5 - Display the DataFrame using the print() function.
+s6 - Create a new plotting figure using plt.figure().
+s7 - Plot the graph using plt.plot() with Teams on the x-axis and Points on the y-axis.
+s8 - Set the title of the graph as "MotoGP Team Points".
+s9 - Label the x-axis as "Teams" and the y-axis as "Points".
+s10 - Display the graph using plt.show().
+s11 - Stop
