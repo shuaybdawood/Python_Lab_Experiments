@@ -1,0 +1,15 @@
+Aim:
+To write a program to demonstrate regular expression operations in Python (match, search, findall, sub) and validate a date pattern.
+
+Algorithm:
+S1 - Start
+S2 - Import the re module.
+S3 - Read the input doc in the format DD/MM/YY.
+S4 - Initialize the string p with a general bike-related sentence and set the pattern as "bike".
+S5 - Use re.match() to check whether the string p starts with "From" and print the result.
+S6 - Use re.search() to check whether the word "bike" is present in the string p and print the result.
+S7 - Use re.findall() to find all occurrences of "bike" in the string p and print the result.
+S8 - Use re.sub() to replace "bike" with "car" in the string p and display the modified string.
+S9 - Extract numbers from the input doc using re.findall("[0-9]+", doc) and print them.
+S10 - Validate the format of doc using the regex pattern \d{2}/\d{2}/\d{2}$ with re.match() and print whether it is valid or not.
+S11 - Stop
